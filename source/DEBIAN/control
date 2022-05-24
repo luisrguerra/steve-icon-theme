@@ -1,0 +1,9 @@
+Source: steve-icon-theme
+Priority: optional
+Maintainer: Luis Guerra
+Version: 0.3
+Essential: no
+Package: steve-icon-theme
+Architecture: all
+Homepage: https://github.com/luisrguerra/steve-icon-theme
+Description: Steve icon theme.

@@ -1,2 +1,0 @@
-# steve-icon-theme
- 
