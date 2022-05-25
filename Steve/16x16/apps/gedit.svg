@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <path style="fill:#e4e4e4" d="M 0.8125,16 C 0.36237,16 0,15.643 0,15.2 V 0.8 C 0,0.3568 0.36237,0 0.8125,0 H 12.188 C 12.638,0 13,0.3568 13,0.8 V 11 L 8,16 Z"/>
- <path style="fill:#fafafa" d="M 8,16 V 11.833 C 8,11.373 8.3731,11 8.8333,11 H 13 Z"/>
- <path style="fill:#f3d491" d="M 5,11 V 8.4352 L 7.5648,11 Z"/>
- <path style="fill:#545454" d="M 5,11 V 9.9741 L 6.0259,11 Z"/>
- <path style="fill:#ffbb29" d="M 13.207,0.22798 5,8.4352 7.5648,11 15.772,2.7927 C 15.772,2.7927 16.285,2.2798 15.772,1.7668 L 14.233,0.22798 C 13.72,-0.28497 13.207,0.22798 13.207,0.22798 Z"/>
-</svg>
+<svg height="16px" width="16px" id="svg6" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 16"><defs><style>.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:#f2f2f2;}.cls-4{isolation:isolate;opacity:0.4;}.cls-5{fill:#e4e4e4;}.cls-6{fill:#f3d491;}.cls-7{fill:#545454;}.cls-8{fill:#ffbb29;}</style><clipPath id="clip-path"><path id="rect51" class="cls-1" d="M4.09,1h7.8065A3.1124,3.1124,0,0,1,15,4.1032V11.91A3.09,3.09,0,0,1,11.91,15H4.1032A3.1124,3.1124,0,0,1,1,11.8968V4.09A3.0993,3.0993,0,0,1,4.09,1Z"/></clipPath></defs><g class="cls-2"><rect class="cls-3" width="16" height="16"/><rect class="cls-4" y="11.5" width="5" height="0.5"/><polygon class="cls-5" points="20 13 13 20 13 20 20 20 20 13"/><path class="cls-6" d="M5,12V9.824L7.1759,12Z"/><path class="cls-7" d="M5,12v-.8707L5.8706,12Z"/><path class="cls-8" d="M11.9636,2.86,5,9.824,7.1759,12,14.14,5.0363a.6028.6028,0,0,0,0-.87L12.8336,2.86A.6022.6022,0,0,0,11.9636,2.86Z"/></g></svg>
